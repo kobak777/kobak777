@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAd/programming-computer-frog.gif" width="350"/>
-  <h1 >
+  <h1>
     Hello, my name is Sophia Kobak
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBoYnBicjl1ZXJsd3RkejFxMTAyOWVtcmh4YW5wenYxcDhxeXJ6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="30px"/>
   </h1>
@@ -24,15 +24,30 @@
   <img src="https://img.shields.io/badge/PostgreSQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
+---
+
 <h3>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlnand2OHdpamo4MTd4dWhmOTA2ZGw3cTQ0Mjd4Zndpb245ODJiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bEROEEk1isKitNJ6AY/giphy.gif" width="15px"/>
   My projects
 </h3>
 <details>
   <summary>JavaScript projects</summary>
-- [ToDo App](https://github.com/kobak777/ToDo-app-js.git)
+  
+* [ToDo App](https://github.com/kobak777/ToDo-app-js.git)
 </details>
 
 <details>
   <summary>JavaScript mini-games</summary>
 </details>
+
+---
+
+<h3>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlnand2OHdpamo4MTd4dWhmOTA2ZGw3cTQ0Mjd4Zndpb245ODJiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bEROEEk1isKitNJ6AY/giphy.gif" width="15px"/>
+  My Codewars stats
+</h3>
+
+![Codewars](https://github.r2v.ch/codewars?user=SophiaKobak&theme=dark&top_languages=true)
+
+
+
