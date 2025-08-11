@@ -42,6 +42,11 @@
   * [Tic-tac-toe](https://github.com/kobak777/Tic-tac-toe-js.git)
 </details>
 
+<details>
+  <summary>React projects</summary>
+  
+* coming soon...
+</details>
 ---
 
 <h3>
