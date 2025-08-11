@@ -38,6 +38,8 @@
 
 <details>
   <summary>JavaScript mini-games</summary>
+  
+  * [Tic-tac-toe](https://github.com/kobak777/Tic-tac-toe-js.git)
 </details>
 
 ---
