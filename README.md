@@ -34,6 +34,7 @@
   
 * [ToDo App](https://github.com/kobak777/ToDo-app-js.git)
 * [GitHub Users Search App](https://github.com/kobak777/Github-users-search-app.git)
+* [Exchange Rates App](https://github.com/kobak777/Exchange-Rates-App.git)
 </details>
 
 <details>
