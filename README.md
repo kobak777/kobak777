@@ -46,7 +46,7 @@
 <details>
   <summary>React projects</summary>
   
-* coming soon...
+* [QRCodeApp](https://github.com/kobak777/QRCodeApp.git)
 </details>
 
 ---
